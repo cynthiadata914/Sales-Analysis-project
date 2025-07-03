@@ -12,6 +12,13 @@
 
 This project presents a comprehensive sales analysis for a Vista company over the pat 4 years, focusing on profitability, customer insights, and product pricing trends across multiple regions. The analysis was conducted using Microsoft Excel, featuring interactive dashboards that allow decision-makers to identify key profit drivers and understand customer behavior.
 
+![Sales Analysis Dashboard 1](https://github.com/user-attachments/assets/4370ee1a-0c5a-4694-9031-bcd0a8fd2bdc)
+
+![Sales Analysis Dashboard 2](https://github.com/user-attachments/assets/e5fe687a-6f9a-4c3c-b70f-f85c7e641cb7)
+
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis was sourced from a publicly shared Excel file via Google Drive. It contains transactional sales records that include: Product details, customer information,geographic regions,profit values and quantities sold, time based records. 
