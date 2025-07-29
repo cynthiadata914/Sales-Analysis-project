@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-This project presents a comprehensive sales analysis for a Vista company over the pat 4 years, focusing on profitability, customer insights, and product pricing trends across multiple regions. The analysis was conducted using Microsoft Excel, featuring interactive dashboards that allow decision-makers to identify key profit drivers and understand customer behavior.
+This project presents a comprehensive sales analysis for a Vista company over the past 4 years, focusing on profitability, customer insights, and product pricing trends across multiple regions. The analysis was conducted using Microsoft Excel, featuring interactive dashboards that allow decision-makers to identify key profit drivers and understand customer behavior.
 
 ![Sales Analysis Dashboard 1](https://github.com/user-attachments/assets/4370ee1a-0c5a-4694-9031-bcd0a8fd2bdc)
 
